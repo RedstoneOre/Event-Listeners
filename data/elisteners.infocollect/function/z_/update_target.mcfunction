@@ -1,0 +1,2 @@
+$execute store result storage elisteners.collectinfo:info "$(list)".state.target_reqnum long 1 run data get storage elisteners.collectinfo:info "$(list)".target
+$return run data get storage elisteners.collectinfo:info "$(list)".state.target_reqnum

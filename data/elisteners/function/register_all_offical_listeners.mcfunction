@@ -1,0 +1,1 @@
+function elisteners.listener_format:register {id:"elisteners:eventlistener/place_block",data:{requirements:{player_interact_distance:-30}}}

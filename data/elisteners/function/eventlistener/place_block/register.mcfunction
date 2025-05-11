@@ -1,0 +1,1 @@
+function elisteners.infocollect:new {list:"elisteners:listener/place_block",call:"elisteners:adv_trig/_/place_block/find",target:{xc:true,yc:true,zc:true}}

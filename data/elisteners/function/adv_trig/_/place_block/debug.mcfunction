@@ -1,0 +1,1 @@
+$say @s Placed a block at $(x) $(y) $(z) in $(dim)

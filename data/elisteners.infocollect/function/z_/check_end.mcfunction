@@ -1,0 +1,2 @@
+$execute store result score tmp elisteners.infocollect run data get storage elisteners.collectinfo:info "$(list)".state.target_reqnum
+$return run execute if score tmp elisteners.infocollect matches ..0 run function elisteners.infocollect:end {list:"$(list)"}

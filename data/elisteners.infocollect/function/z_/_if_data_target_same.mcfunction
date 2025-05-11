@@ -1,0 +1,1 @@
+$return run execute if data storage elisteners.collectinfo:info "$(list)".data{"$(key)":$(target)}

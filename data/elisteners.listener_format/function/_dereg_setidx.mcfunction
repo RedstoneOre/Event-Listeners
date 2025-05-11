@@ -1,0 +1,1 @@
+$data modify storage elisteners.listener_format:listeners idx."$(id)" set value $(idx)
